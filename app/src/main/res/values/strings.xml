@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Progect_BMI</string>
+    <string name="main_title">BMI(체질량지수) 계산</string>
+    <string name="btn_check">결과</string>
+    <string name="weight">체중(kg): </string>
+    <string name="height">키(cm): </string>
 </resources>
